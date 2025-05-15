@@ -8,7 +8,7 @@ from telebot.types import InlineKeyboardButton
 from currency_converter import CurrencyConverter
 import json
 
-bot = telebot.TeleBot('7791067670:AAGcRhDVSdgSWdb_RdkKfjqhbjqjKSr1S8o')
+bot = telebot.TeleBot('7991644909:AAFKLABO7rsNQyjtW1IuRiD42zr6IRojOYE')
 currency = CurrencyConverter()
 apikey = 'eabc22da15103f4edf6b2b9d7fd60afd'
 
